@@ -1,7 +1,6 @@
 /*
  * Exercici 3. Escriu el codi per a generar i capturar una excepció de 
  * tipus ArrayIndexOutOfBoundsException. 
- * https://www.google.com/amp/s/www.discoduroderoer.es/crear-nuestra-propia-excepcion-en-java/amp/
  */
 
 package n2Exercici3;
