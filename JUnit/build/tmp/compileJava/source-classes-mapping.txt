@@ -1,4 +1,0 @@
-org/itacademy/javatesting/junit/n1Exercici1.java
- org.itacademy.javatesting.junit.n1Exercici1
-org/itacademy/javatesting/junit/n1Exercici2.java
- org.itacademy.javatesting.junit.n1Exercici2
