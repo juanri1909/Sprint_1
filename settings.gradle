@@ -1,5 +1,0 @@
-rootProject.name = 'javaTesting'
-include 'JUnit'
-include 'Hamcrest'
-include 'AssertJ'
-
