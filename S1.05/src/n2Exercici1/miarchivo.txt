@@ -1,0 +1,31 @@
+.DS_Store -F 12-febrero-2022
+Archivo comprimido.zip -F 16-mayo-2019
+IBILlum1T2018.pdf -F 16-mayo-2019
+IBILlum2T2018.pdf -F 16-mayo-2019
+IBILLum3T2018.pdf -F 16-mayo-2019
+IBILLUM4T2018.pdf -F 16-mayo-2019
+IBIPKLlum1T2018.pdf -F 16-mayo-2019
+IBIPKLlum2T2018.pdf -F 16-mayo-2019
+IBIPKLlum3T2018.pdf -F 16-mayo-2019
+IBIPKLLum4t2018.pdf -F 16-mayo-2019
+InfFiscalMercedesElena.pdf -F 16-mayo-2019
+|_PRUEBA-D
+|_.DS_Store -F 12-febrero-2022
+|_|_PRUEBA2-D
+|_|_.DS_Store -F 12-febrero-2022
+|_|_|_PRUEBA3-D
+|_|_|_.DS_Store -F 12-febrero-2022
+|_|_|_|_PRUEBA4-D
+|_|_|_|_.DS_Store -F 12-febrero-2022
+|_|_|_|_IBILlum1T2018.pdf -F 16-mayo-2019
+|_|_|_|_IBILlum2T2018.pdf -F 16-mayo-2019
+|_|_|_|_IBILLum3T2018.pdf -F 16-mayo-2019
+|_|_|_|_IBIPKLlum1T2018.pdf -F 16-mayo-2019
+|_|_|_|_IBIPKLlum3T2018.pdf -F 16-mayo-2019
+|_|_|_|_|_PRUEBA5-D
+|_|_|_|_|_.DS_Store -F 12-febrero-2022
+|_|_|_|_|_archivo p5.pdf -F 16-mayo-2019
+|_|_|_|_ReciboHipotecaLLum42019.pdf -F 16-mayo-2019
+ReciboHipotecaLLum42019.pdf -F 16-mayo-2019
+|_RENTA_2019-D
+|_Declaracion_Renta_2019.pdf -F 19-mayo-2020
