@@ -20,27 +20,5 @@ public class Escuela<T> {
 		System.out.println("Escuela. Metodo1");
 	}
 	
-	/*public Escuela(T id, K nombre) {
-		this.id = id;
-		this.nombre = nombre;
-	}
-
-	public T getId() {
-		return id;
-	}
-
-	public void setId(T id) {
-		this.id = id;
-	}
-
-	public K getNombre() {
-		return nombre;
-	}
-
-	public void setNombre(K nombre) {
-		this.nombre = nombre;
-	}
-	*/
-	
 
 }
