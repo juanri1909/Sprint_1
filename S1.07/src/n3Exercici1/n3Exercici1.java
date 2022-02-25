@@ -32,8 +32,7 @@ public class n3Exercici1 {
 		miAnotacion anotacion = (miAnotacion) campos[0].getAnnotation(miAnotacion.class);//Recupera el valor de la Anotacion
 		System.out.println(anotacion);
 		
-		
-		//wp.Serializar(anotacion.directorio(), wp);
+		wp.Serializar(anotacion.directorio(), wp);
 		
 	}
 
